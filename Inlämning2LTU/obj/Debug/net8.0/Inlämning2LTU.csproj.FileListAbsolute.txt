@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\bin\Debug\net8.0\Inlämning2LTU.exe
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\bin\Debug\net8.0\Inlämning2LTU.deps.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\bin\Debug\net8.0\Inlämning2LTU.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\bin\Debug\net8.0\Inlämning2LTU.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\bin\Debug\net8.0\Inlämning2LTU.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\refint\Inlämning2LTU.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\Inlämning2LTU.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\Inlämning2\Inlämning2LTU\obj\Debug\net8.0\ref\Inlämning2LTU.dll

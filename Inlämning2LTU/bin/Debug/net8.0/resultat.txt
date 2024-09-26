@@ -1,0 +1,5 @@
+Namn                 Persnr          Distrikt        Antal     
+haha                 121212121212    kaka            1         
+1 säljare har nått nivå 1: Under 50 artiklar
+blob                 121212121212    nalle           12141545  
+1 säljare har nått nivå 4: Över 199 artiklar
